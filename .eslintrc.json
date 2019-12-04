@@ -8,9 +8,5 @@
         "ecmaVersion": 2018,
         "sourceType": "module"
     },
-    "extends": "eslint:recommended",
-    "globals": {
-        "Atomics": "readonly",
-        "SharedArrayBuffer": "readonly"
-    }
+    "extends": "eslint:recommended"
 }
