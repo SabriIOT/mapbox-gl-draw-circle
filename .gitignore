@@ -24,3 +24,12 @@ yarn-error.log*
 
 node_modules/
 coverage/
+.idea/.gitignore
+.idea/eslintPlugin.xml
+.idea/inspectionProfiles/
+.idea/mapbox-gl-draw-circle.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+dist/bundle.js.gz
+yarn.lock
