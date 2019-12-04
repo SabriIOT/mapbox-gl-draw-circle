@@ -6,16 +6,7 @@
         "jest": true,
         "browser": true
     },
-    "extends": [
-        "eslint:recommended",
-        "react-airbnb-prettier",
-        "./eslint/bestPractise.js",
-        "./eslint/node.js",
-        "./eslint/style.js",
-        "./eslint/es6.js",
-        "./eslint/imports.js",
-        "./eslint/react.js"
-    ],
+    "extends": ["eslint:recommended"],
     "parserOptions": {
         "ecmaVersion": 2018,
         "sourceType": "module"
