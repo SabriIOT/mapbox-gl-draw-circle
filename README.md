@@ -1,4 +1,6 @@
-# mapbox-gl-draw-circle
+# mapbox-gl-draw-circle 
+## compatibility Chrome/Firefox/Safari/IE/EDGE
+FORK => https://github.com/iamanvesh/mapbox-gl-draw-circle
 
 Adds support for drawing and editing a circle feature using [mapbox-gl-draw](https://github.com/mapbox/mapbox-gl-draw) library.
 
